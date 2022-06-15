@@ -246,31 +246,3 @@ img {
 .contact-details:hover {
   transform: translateY(8px);
 }
-
-footer {
-  position: absolute;
-  bottom: 0px;
-  margin-top: auto;
-  font-weight: 300;
-  width: 100px;
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  background: var(--main-blue);
-  border-top: 4px solid var(--main-red);
-}
-
-footer > p {
-  margin: 2rem;
-}
-
-footer i {
-  vertical-align: middle;
-}
-
-@media (max-width: 28.75em) {
-  footer {
-    flex-direction: column;
-    text-align: center;
-  }
-}
