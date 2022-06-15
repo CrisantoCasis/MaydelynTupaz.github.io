@@ -115,7 +115,6 @@ img {
 }
 
 .welcome-section {
-  color: #1a363d;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -130,7 +129,7 @@ img {
   font-size: 3rem;
   font-weight: 200;
   font-style: italic;
-  color: var(--main-white);
+  color: #1a363d;
 }
 
 .projects-section {
