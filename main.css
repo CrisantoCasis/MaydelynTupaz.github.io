@@ -1,6 +1,6 @@
 :root {
   --main-white: #f0f0f0;
-  --main-red: #704241;
+  --main-red: #26606e;
   --main-blue: #264348;
   --main-gray: #696969;
 }
@@ -122,7 +122,7 @@ img {
   width: 100%;
   height: 100vh;
   background-color: #f0f0f0;
-  background-image: linear-gradient(10deg, #1a5d6e 45%, #696969 0%);
+  background-image: linear-gradient(2deg, #3a3d40 0%, #696969 0%);
 }
 
 .welcome-section > p {
