@@ -256,7 +256,6 @@ img {
 
 footer {
   font-weight: 300;
-  margin-top: auto;
   display: flex;
   justify-content: space-evenly;
   padding: 2rem;
@@ -278,3 +277,4 @@ footer i {
     text-align: center;
   }
 }
+
