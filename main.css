@@ -241,8 +241,26 @@ img {
   transform: translateY(8px);
 }
 
-<footer>
-  <p>
-    **This is for Educational Purposes Only.Thank You!!!.
-  </p>
-</footer>
+footer {
+  font-weight: 300;
+  display: flex;
+  justify-content: space-evenly;
+  padding: 2rem;
+  background: var(--main-blue);
+  border-top: 4px solid var(--main-red);
+}
+
+footer > p {
+  margin: 2rem;
+}
+
+footer i {
+  vertical-align: middle;
+}
+
+@media (max-width: 28.75em) {
+  footer {
+    flex-direction: column;
+    text-align: center;
+  }
+}
