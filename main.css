@@ -116,6 +116,7 @@ img {
 
 .welcome-section {
   display: flex;
+  font-weight: 200;
   flex-direction: column;
   justify-content: center;
   align-items: center;
