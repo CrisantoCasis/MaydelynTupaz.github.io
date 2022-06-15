@@ -257,8 +257,6 @@ img {
 footer {
   font-weight: 300;
   margin-top: auto;
-  bottom: 0px;
-  position: absolute;
   display: flex;
   justify-content: space-evenly;
   padding: 2rem;
