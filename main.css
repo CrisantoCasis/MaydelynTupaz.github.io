@@ -209,7 +209,7 @@ img {
   justify-content: center;
   align-items: center;
   text-align: center;
-  width: 200%;
+  width: 100%;
   height: 80vh;
   padding: 0 2rem;
   background: var(--main-blue);
@@ -247,3 +247,4 @@ img {
 .contact-details:hover {
   transform: translateY(8px);
 }
+
